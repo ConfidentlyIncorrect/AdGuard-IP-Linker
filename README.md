@@ -8,3 +8,5 @@ You will also need your relink website for this, just add your link after "@star
 
 It should be in a area like this
 [Screenshot 2023-05-20 102209](https://github.com/ConfidentlyIncorrect/AdGuard-IP-Linker/assets/67250630/8fe25045-04b5-4443-afd6-baa5e95859aa)
+
+Coding took just over 40 minutes, including research.
